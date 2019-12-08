@@ -1,6 +1,6 @@
 {
   "name": "commonmark-twemoji",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "apply twemoji rendering to commonmark source",
   "main": "index.js",
   "scripts": {
